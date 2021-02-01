@@ -7,3 +7,5 @@ This project addresses the issue of WEB site accessibility by including.
 * Utilizing 'alt' attributes for image elements.
 * HTML title elements are concise and descriptive.
 * Including comments in both HTML and CSS file where appropriate.
+
+![Horiseon Web Page.](https://github.com/bmowrey729/Refactor/tree/main/assets/images)
