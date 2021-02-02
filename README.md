@@ -9,4 +9,5 @@ This project addresses the issue of WEB site accessibility by including.
 * Including comments in both HTML and CSS file where appropriate.
 
 [Horiseon] (https://bmowrey729.github.io/Refactor/)
+![Screen Shot ](/assets/images/Horiseon.PNG)
 
